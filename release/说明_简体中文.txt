@@ -9,7 +9,7 @@
   飞蛾屏幕 Moth Screen v2.5    7 天剧情笼子。你透过俱乐部的中继程序，看着一个 19 岁菜鸟黑客的电脑桌面，
                                听他的麦克风。他接了一个活：找出一个女人住在哪……
                                有搜索、推理、打电话、聊天和多种结局。说明：Mods\MothScreen\README_飛蛾螢幕.txt
-  下行中 Going Down v0.6.2     公寓电梯的监视器。没有关键词，只能看。说明：Mods\LiftCam\README_下行中.txt
+  下行中 Going Down v0.7     公寓电梯的监视器。没有关键词，只能看。说明：Mods\LiftCam\README_下行中.txt
 
 安装（只要做一次）
 ------------------

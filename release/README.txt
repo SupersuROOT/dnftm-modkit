@@ -10,7 +10,7 @@ It contains two custom cages, the installer 0.5.10 and ModLoader 0.5.10:
                       beginner hacker and hear his microphone. He took a job: find out where a woman lives...
                       Searches, deductions, phone calls, chat and several endings.
                       Details: Mods\MothScreen\README_飛蛾螢幕.txt (Chinese)
-  Going Down v0.6.2   The CCTV camera of an apartment-block lift. No keywords; just watch.
+  Going Down v0.7   The CCTV camera of an apartment-block lift. No keywords; just watch.
                       Details: Mods\LiftCam\README_下行中.txt (Chinese)
 
 Both cages are in English and Simplified Chinese.

@@ -17,7 +17,7 @@ installer, a browser-based cage editor and two story cages made with it.
 | Installer (`src/Installer`) | 0.5.10 | Injects the loader's hooks into the game's `Assembly-UnityScript.dll` (with Mono.Cecil) and keeps a backup; option 2 restores it. |
 | Editor (`editor/`) | 0.5.0 | Open `editor/index.html` in Chrome or Edge. Edits everything the loader supports, checks cages for mistakes that would break the game, reads and writes the `Mods` folder directly. |
 | Moth Screen (`data/MothScreen`) | 2.5 | A 7-day story cage: you watch the desktop and microphone of a teenage hacker hired to find a woman's address. Searches, deductions, phone calls, chat, a door visit, several endings. English and Simplified Chinese. |
-| Going Down (`data/LiftCam`) | 0.6.2 | A fake cage: the CCTV camera of an apartment-block lift. No keywords; just watch. English and Simplified Chinese. |
+| Going Down (`data/LiftCam`) | 0.7 | A fake cage: the CCTV camera of an apartment-block lift. No keywords; just watch. English and Simplified Chinese. |
 
 ## Playing (players)
 

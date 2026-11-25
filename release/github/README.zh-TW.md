@@ -16,7 +16,7 @@
 | 安裝器（`src/Installer`） | 0.5.10 | 用 Mono.Cecil 把 loader 的掛鉤注入遊戲的 `Assembly-UnityScript.dll`，並保留備份；選 2 可還原。 |
 | 編輯器（`editor/`） | 0.5.0 | 用 Chrome 或 Edge 開啟 `editor/index.html`。可以編輯 loader 支援的全部功能，會檢查會讓遊戲出錯的設定，並直接讀寫 `Mods` 資料夾。 |
 | 飛蛾螢幕 Moth Screen（`data/MothScreen`） | 2.5 | 7 天劇情籠子：你看著一個被雇來找出女人住址的少年黑客的電腦桌面，聽他的麥克風。有搜尋、推理、打電話、聊天、上門和多種結局。英文與簡體中文。 |
-| 下行中 Going Down（`data/LiftCam`） | 0.6.2 | 「假籠子」：公寓電梯的監視器。沒有關鍵詞，只能看。英文與簡體中文。 |
+| 下行中 Going Down（`data/LiftCam`） | 0.7 | 「假籠子」：公寓電梯的監視器。沒有關鍵詞，只能看。英文與簡體中文。 |
 
 ## 玩家
 

@@ -3,7 +3,7 @@ Do Not Feed the Monkeys - Mod 工具包 v1.0（安裝器 0.5.10、ModLoader 0.5.
 
 這是非官方的 fan mod 工具包，附帶兩個籠子：
   飛蛾螢幕 Moth Screen v2.5   7 天劇情籠子：監看一個菜鳥黑客的電腦桌面與麥克風（說明見 Mods\MothScreen\README_飛蛾螢幕.txt）
-  下行中 Going Down v0.6.2    公寓電梯的監視器（說明見 Mods\LiftCam\README_下行中.txt）
+  下行中 Going Down v0.7    公寓電梯的監視器（說明見 Mods\LiftCam\README_下行中.txt）
 做自己的籠子請用 Editor 資料夾裡的編輯器，說明見 Editor\README_编辑器说明.txt。
 編輯器不含遊戲畫面；有遊戲的話可照 Editor\README_從遊戲提取預覽圖.txt 從自己的遊戲提取預覽圖。
 
