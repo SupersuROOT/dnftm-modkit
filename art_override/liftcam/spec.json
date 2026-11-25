@@ -1,0 +1,989 @@
+{
+ "bg/car": {
+  "size": [
+   252,
+   174
+  ],
+  "transparent": false
+ },
+ "bg/door_open1": {
+  "size": [
+   252,
+   174
+  ],
+  "transparent": false
+ },
+ "bg/door_open2": {
+  "size": [
+   252,
+   174
+  ],
+  "transparent": false
+ },
+ "bg/door_open": {
+  "size": [
+   252,
+   174
+  ],
+  "transparent": false
+ },
+ "bg/door_pried": {
+  "size": [
+   252,
+   174
+  ],
+  "transparent": false
+ },
+ "bg/door_sign": {
+  "size": [
+   252,
+   174
+  ],
+  "transparent": false
+ },
+ "people/pruitt/back": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/pruitt/back_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/pruitt/front": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/pruitt/front_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/pruitt/walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/pruitt/walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/pruitt/walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/pruitt/walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/pruitt/sit": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/pruitt/sit_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/back": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/back_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/front": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/front_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/wave": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/wave_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/sit": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/haldane/sit_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/back": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/back_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/front": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/front_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/nobox": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/nobox_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/sit": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/rafi/sit_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/back": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/back_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/front": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/front_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/dance1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/dance2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/dance3": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/dance4": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/fall": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/fall_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/grimace1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mila/grimace2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/gus/back": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/gus/back_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/gus/front": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/gus/front_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/gus/walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/gus/walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/gus/walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/gus/walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/gus/mop1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/gus/mop2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/back": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/back_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/front": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/front_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/jump1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/jump2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/wave1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/toby/wave2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mom/back": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mom/back_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mom/front": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mom/front_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mom/walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mom/walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mom/walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/mom/walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/grey/back": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/grey/walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/grey/walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/grey/walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/grey/walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/tech/back": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/tech/back_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/tech/front": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/tech/front_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/tech/walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/tech/walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/tech/walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/tech/walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/back": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/back_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/front": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/front_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/carry": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/carry_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/carry_walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/carry_walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/carry_walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dev/carry_walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/back": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/back_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/front": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/front_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/carry": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/carry_talk": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/carry_walk_f1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/carry_walk_f2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/carry_walk_b1": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/priya/carry_walk_b2": {
+  "size": [
+   64,
+   100
+  ],
+  "transparent": true
+ },
+ "people/dog/sit": {
+  "size": [
+   28,
+   24
+  ],
+  "transparent": true
+ },
+ "people/dog/walk1": {
+  "size": [
+   28,
+   24
+  ],
+  "transparent": true
+ },
+ "people/dog/walk2": {
+  "size": [
+   28,
+   24
+  ],
+  "transparent": true
+ },
+ "people/dog/sniff": {
+  "size": [
+   28,
+   24
+  ],
+  "transparent": true
+ },
+ "people/dog/sleep": {
+  "size": [
+   28,
+   24
+  ],
+  "transparent": true
+ },
+ "people/dog/bark": {
+  "size": [
+   28,
+   24
+  ],
+  "transparent": true
+ },
+ "props/bucket": {
+  "size": [
+   20,
+   18
+  ],
+  "transparent": true
+ },
+ "props/toolbox": {
+  "size": [
+   26,
+   16
+  ],
+  "transparent": true
+ },
+ "props/wardrobe": {
+  "size": [
+   120,
+   70
+  ],
+  "transparent": true
+ },
+ "web/news_contract": {
+  "size": [
+   110,
+   80
+  ],
+  "transparent": false
+ },
+ "web/news_shutdown": {
+  "size": [
+   110,
+   80
+  ],
+  "transparent": false
+ },
+ "web/news_stairs": {
+  "size": [
+   110,
+   80
+  ],
+  "transparent": false
+ },
+ "web/end_dark": {
+  "size": [
+   110,
+   80
+  ],
+  "transparent": false
+ },
+ "web/end_viral": {
+  "size": [
+   110,
+   80
+  ],
+  "transparent": false
+ }
+}

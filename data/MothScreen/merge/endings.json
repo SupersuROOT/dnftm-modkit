@@ -1,0 +1,44 @@
+{
+ "frames": {
+  "mothScreenArrest": {
+   "text": "mothScreen_555~m0th was arrested in his pajamas. He told the police someone had been watching him through his own computer. Nobody believed him. Byte went to live with his mom.",
+   "image": "mods/MothScreen/web/news_arrest"
+  },
+  "mothScreenTurnIn": {
+   "text": "mothScreen_556~Elias Krumm walked into a police station and told them everything: Crow, the address, the Club. They wrote down the first two.",
+   "image": "mods/MothScreen/web/news_turnin"
+  },
+  "mothScreenDoor": {
+   "text": "mothScreen_557~A boy in a helmet came to your door and left. You never saw m0th online again. Sometimes, at night, you still check your webcam light.",
+   "image": "mods/MothScreen/web/end_door"
+  },
+  "mothScreenNoDoor": {
+   "text": "mothScreen_558~You never opened the door. m0th never came back online. But someone, somewhere, knows your building.",
+   "image": "mods/MothScreen/web/end_door"
+  },
+  "mothScreenMember": {
+   "text": "mothScreen_559~m0th became a member of the Primate Observation Club. Somewhere, a new camera light blinks.",
+   "image": "mods/MothScreen/web/end_watch"
+  },
+  "mothScreenNora": {
+   "text": "mothScreen_560~Nora Vance moved in with her sister and changed every password. She never found out who called her that night.",
+   "image": "mods/MothScreen/web/end_sisters"
+  },
+  "mothScreenNoraFled": {
+   "text": "mothScreen_701~Nora Vance jumped out of her kitchen window in her socks. She never went back to Kestrel Lane, and she still checks every car that slows down.",
+   "image": "mods/MothScreen/web/news_intruder"
+  },
+  "mothScreenNoraSpared": {
+   "text": "mothScreen_702~The police stopped Dorian Pell one street before Kestrel Lane. Nora Vance never knew how close he came.",
+   "image": "mods/MothScreen/web/end_sisters"
+  },
+  "mothScreenDorianFree": {
+   "text": "mothScreen_703~Nobody reported Dorian Pell. He is still out there, and he has learned to pay better hackers.",
+   "image": "mods/MothScreen/web/news_dorian"
+  },
+  "mothScreenDorian": {
+   "text": "mothScreen_561~Dorian Pell went back to jail. In his cell he keeps asking who reported him. Nobody tells him.",
+   "image": "mods/MothScreen/web/end_bars"
+  }
+ }
+}

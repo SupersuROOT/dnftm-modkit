@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DNFTM Mod 编辑器</title>
+<link rel="stylesheet" href="editor.css">
+</head>
+<body>
+<header>
+  <span class="title" id="btnHome" style="cursor:pointer">🐒 DNFTM Mod 编辑器</span>
+  <button id="btnOpen" class="primary" title="选择游戏文件夹或 Mods 文件夹（Chrome / Edge）">📂 打开文件夹</button>
+  <button id="btnImport" title="唯读导入，适用不支持直接写入的浏览器">📥 导入</button>
+  <button id="btnNewMod">＋ 添加 Mod</button>
+  <button id="btnSave" title="Ctrl+S">💾 保存</button>
+  <button id="btnZip">⬇ 导出 zip</button>
+  <span class="spacer"></span>
+  <span id="status"></span>
+</header>
+<div id="layout">
+  <nav id="sidebar"></nav>
+  <main id="main"></main>
+  <aside id="issues"></aside>
+</div>
+<input type="file" id="importInput" webkitdirectory directory multiple style="display:none">
+<script src="catalog.js?v=0.5.0-release"></script>
+<script src="example.js?v=0.5.0-release"></script>
+<script src="core.js?v=0.5.0-release"></script>
+<script src="help.js?v=0.5.0-release"></script>
+<script src="art.js?v=0.5.0-release"></script>
+<script src="preview.js?v=0.5.0-release"></script>
+<script src="interact.js?v=0.5.0-release"></script>
+<script src="ui.js?v=0.5.0-release"></script>
+</body>
+</html>

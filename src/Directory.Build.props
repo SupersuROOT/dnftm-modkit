@@ -1,0 +1,7 @@
+<Project>
+  <!-- One version for the whole ModKit: the installer, the loader DLL (file properties) and the "ModLoader x.y.z"
+       shown in the game's MODS page (Hooks.Version, which must match; tools/release.py checks it). -->
+  <PropertyGroup>
+    <Version>0.5.10</Version>
+  </PropertyGroup>
+</Project>

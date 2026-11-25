@@ -1,0 +1,7 @@
+bin/
+obj/
+__pycache__/
+*.pyc
+dist/
+# a catalog.js rebuilt from your own copy of the game contains the game's pictures: keep it local
+editor/catalog.full.js
